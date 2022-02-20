@@ -1,11 +1,11 @@
 1. На локальном репозитории сделать ветки для:   
-* git branch Postman     
-* git branch Jmeter  
-* git branch CheckList   
-* git branch Bug_Reports   
-* git branch SQL    
-* git branch Charles     
-* git branch Mobile_testing    
+* Postman - git branch Postman     
+* Jmeter - git branch Jmeter  
+* CheckList - git branch CheckList   
+* Bug_Reports - git branch Bug_Reports   
+* SQL - git branch SQL    
+* Charles - git branch Charles     
+* Mobile_testing - git branch Mobile_testing    
     
 2. Запушить все ветки на внешний репозиторий  
 * git push -u origin --all    
@@ -27,7 +27,7 @@
 * Ctrl + D
      
 4. Запушить структуру багрепорта на внешний репозиторий   
-* git add . 
+* git add .    
 * git commit -m "add bug_report.txt"
 * git push 
    
@@ -42,7 +42,7 @@
 
 7. В ветке CheckLists набросать структуру чек листа   
 * git checkout CheckList   
-* cat > checklist_my_morning.txt
+* cat > checklist_my_morning.txt   
   ►woke up    
   ►washed up   
   ►breakfast    
