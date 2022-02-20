@@ -1,7 +1,6 @@
-[H[b[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[D•ID
+•ID
+•Title
 •Componennts
-[A[C[C[C[C[C[C[C[CSummary
-[A[C[C[C[C[C[Title
 •Summary
 •Severity
 •Priority
